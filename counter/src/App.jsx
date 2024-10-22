@@ -16,6 +16,7 @@ function App() {
       setCounter(counter);
     }
   }
+  
   const decreaseValue = ()=>{
     // counter = counter-1;
     setCounter(counter-1);
